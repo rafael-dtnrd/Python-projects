@@ -1,2 +1,2 @@
-# Python-projects
-Alguns programas em Python desenvolvidos por mim
+# PROJETOS PYTHON
+Alguns programas em Python desenvolvidos por mim.
